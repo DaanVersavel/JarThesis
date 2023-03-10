@@ -1,0 +1,12 @@
+Osm Inlezen
+args[0] = inputFile
+args[1] = outputFile name
+
+Preprocessing
+args[0] inputPath
+args[1] Number of cells
+args[2] nameOfMap
+
+makeQuerry
+args[0] = inputFile
+args[1] = outputFile name
