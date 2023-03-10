@@ -10,4 +10,3 @@ args[2] nameOfMap
 makeQuerry
 args[0] = inputFile
 args[1] = outputFile name
-Daan
