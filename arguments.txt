@@ -10,3 +10,8 @@ args[2] nameOfMap
 makeQuerry
 args[0] = inputFile
 args[1] = outputFile name
+
+Querrying
+args[0] filePathGraph  
+args[1] filePathQuerries
+args[2] outputFilePath
